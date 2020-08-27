@@ -5,6 +5,6 @@ Please, consider me as a non-fluent English speaker, so I'll probally make some 
 
 This repository it's been made during the "Curso de Git e Github" instructed by teacher Gustavo Guanabara from his Youtube Channel "Curso em Vídeo". 
 
-I appreciate his job a content creator and teacher. 
+I appreciate his job as a content creator and teacher. 
 
 This line had been add directly trough global github.
